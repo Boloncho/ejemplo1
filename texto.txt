@@ -1,1 +1,1 @@
-ejemplo de git
+estoy empezando a entender git
